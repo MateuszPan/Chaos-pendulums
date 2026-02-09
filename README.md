@@ -1,5 +1,4 @@
-# Chaos-pendulums
-symulacja i analiza dynamiki wahadła podwójnego w Pythonie.
+# Symulacja i analiza chaosu w układzie wahadła podwójnego w Pythonie.
 Kod wykorzystuje metodę Rungego–Kutty 4 rzędu do całkowania równań ruchu.
 Zawartość
 - animacja 1000 wahadeł podwójnych z minimalnie różnymi warunkami początkowymi
