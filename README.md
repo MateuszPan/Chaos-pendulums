@@ -1,4 +1,5 @@
 # Symulacja i analiza chaosu w układzie wahadła podwójnego w Pythonie.
+Autor: Mateusz Pandura
 Kod wykorzystuje metodę Rungego–Kutty 4 rzędu do całkowania równań ruchu.
 Zawartość
 - animacja 1000 wahadeł podwójnych z minimalnie różnymi warunkami początkowymi
