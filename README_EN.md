@@ -9,7 +9,7 @@ The code uses the fourth-order Runge–Kutta method to integrate the equations o
 •	correlation and autocorrelation analysis
 •	recurrence plots
 •	energy analysis (kinetic, potential, total)
-### ###Requirements
+### Requirements
 •	Python 3.x
 •	numpy
 •	matplotlib
