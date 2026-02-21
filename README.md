@@ -1,4 +1,4 @@
-# Symulacja i analiza chaosu w układzie wahadła podwójnego w Pythonie.
+### Symulacja i analiza chaosu w układzie wahadła podwójnego w Pythonie.
 Autor: Mateusz Pandura.
 W kodzie wykorzystuna jest metoda Rungego–Kutty 4 rzędu do całkowania równań ruchu.
 Zawartość to:
@@ -8,7 +8,7 @@ Zawartość to:
 - analiza korelacji i autokorelacji
 - wykresy powtarzalności (recurrence plots)
 - analiza energii (kinetyczna, potencjalna, całkowita)
-## Wymagania
+### Wymagania
 - Python 3.x
 - numpy
 - matplotlib
