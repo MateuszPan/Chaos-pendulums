@@ -1,5 +1,6 @@
 ### Simulation and Analysis of Chaos in a Double Pendulum System in Python
-Author: Mateusz Pandura
+Author: Mateusz Pandura.
+
 The code uses the fourth-order Runge–Kutta method to integrate the equations of motion.
 ### Contents:
 •	animation of 1000 double pendulums (with slightly different initial conditions)
